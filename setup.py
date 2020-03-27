@@ -41,7 +41,7 @@ setup(
     description="Util class to parse and manage weekly schedules",
     long_description=long_description,  # Optional
     long_description_content_type='text/markdown',  # Optional (see note above)
-    url='https://github.com/gnarvaja/weektimetable',  # Optional
+    url='https://github.com/radiocutfm/weektimetable',  # Optional
     author='Guillermo Narvaja',  # Optional
     author_email='guillermo.narvaja@radiocut.fm',  # Optional
     # For a list of valid classifiers, see https://pypi.org/classifiers/
@@ -108,9 +108,9 @@ setup(
     # maintainers, and where to support the project financially. The key is
     # what's used to render the link text on PyPI.
     project_urls={  # Optional
-        'Bug Reports': 'https://github.com/pypa/sampleproject/issues',
+        'Bug Reports': 'https://github.com/radiocutfm/weektimetable/issues',
         'Funding': 'https://donate.pypi.org',
-        'Say Thanks!': 'http://saythanks.io/to/example',
-        'Source': 'https://github.com/pypa/sampleproject/',
+        'Say Thanks!': 'https://saythanks.io/to/guillermo.narvaja%40radiocut.fm',
+        'Source': 'https://github.com/radiocutfm/weektimetable/',
     },
 )
